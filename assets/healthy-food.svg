@@ -1,0 +1,17 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="500" fill="#EAFBF4"/>
+  <circle cx="150" cy="120" r="70" fill="#F6D7A7" fill-opacity="0.8"/>
+  <circle cx="650" cy="120" r="90" fill="#CDEEF6" fill-opacity="0.85"/>
+  <rect x="80" y="280" width="640" height="130" rx="40" fill="#F7F4E8"/>
+  <ellipse cx="260" cy="260" rx="110" ry="85" fill="#8AD1B4"/>
+  <ellipse cx="420" cy="235" rx="125" ry="100" fill="#F6B36B"/>
+  <ellipse cx="590" cy="260" rx="95" ry="78" fill="#A7D08D"/>
+  <path d="M226 241C257 201 311 201 338 249C311 292 258 291 226 241Z" fill="#F4A261"/>
+  <path d="M409 199C445 158 514 156 548 203C518 265 451 267 409 199Z" fill="#F7C98C"/>
+  <path d="M576 234C615 201 667 204 685 249C655 287 602 288 576 234Z" fill="#7ACD8F"/>
+  <path d="M195 330C240 290 306 291 322 330C279 358 231 359 195 330Z" fill="#8CC7A6"/>
+  <path d="M335 340C397 298 475 302 510 340C463 384 380 382 335 340Z" fill="#5BB78D"/>
+  <path d="M522 343C570 314 631 315 664 345C624 378 558 378 522 343Z" fill="#7FBF68"/>
+  <path d="M320 125C344 80 373 58 409 60C393 106 340 137 320 125Z" fill="#FAF0C7"/>
+  <path d="M105 172C127 141 149 131 172 134C164 169 129 195 105 172Z" fill="#F5E6A1"/>
+</svg>
